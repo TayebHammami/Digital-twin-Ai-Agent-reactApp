@@ -3,7 +3,7 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import "./index.css";
 
-const API_URL = "http://localhost:8000/api/chat";
+const API_URL = "https://backend-digital-twin.onrender.com";
 
 const EXAMPLES = [
   "Tell me about your background and experience.",
